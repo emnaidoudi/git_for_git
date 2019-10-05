@@ -63,3 +63,8 @@ for i in range(16):
         print("Rock :)  Reality: "+test_data_y.iloc[i])
     else:
         print("Mine :o  Reality: "+test_data_y.iloc[i])
+
+
+# hello you
+def sayHello():
+    print("hello")        
